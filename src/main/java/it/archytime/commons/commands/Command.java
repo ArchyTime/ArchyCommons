@@ -1,6 +1,6 @@
-package it.archytime.archyfriends.commands;
+package it.archytime.commons.commands;
 
-import it.archytime.archyfriends.chat.Message;
+import it.archytime.commons.chat.Message;
 
 import java.util.*;
 

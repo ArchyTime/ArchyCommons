@@ -1,4 +1,4 @@
-package it.archytime.archyfriends.chat;
+package it.archytime.commons.chat;
 
 public abstract class Message {
 
